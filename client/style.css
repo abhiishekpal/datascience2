@@ -1,0 +1,32 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px&subset=latin-ext');
+</style>
+body{
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background-image:   url('./background.jpg');
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center;
+}
+header{
+  background: black;
+  color: white;
+  padding: 6px 0px 6px 20px;
+}
+header h1{
+  font-family: 'Slabo 27px', serif;
+  font-weight:  600;
+  font-size: 20px;
+  margin-top: 0px;
+  margin-right: 0px;
+}
+.predict{
+  position: absolute;
+  top: calc(50% - 45px);
+  left: calc(50% - 150px);
+  height: 150px;
+  width: 350px;
+  padding: 10px;
+}
