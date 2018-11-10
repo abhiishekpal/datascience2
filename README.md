@@ -13,5 +13,5 @@ The script as of now accepts jpg format image.
 
 
 Resources I followed:
-[Blog by Adrian Rosebrock] (https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/)
-[Video Series by Deeplizard] (https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+[Blog by Adrian Rosebrock](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/)<br />
+[Video Series by Deeplizard](https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
